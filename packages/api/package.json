@@ -9,7 +9,7 @@
 		"logs": "workspace:*",
 		"mail": "workspace:*",
 		"next": "15.0.3",
-		"openai": "^4.73.1",
+		"openai": "^4.77.0",
 		"storage": "workspace:*",
 		"stripe": "^17.4.0",
 		"superjson": "^2.2.1",
