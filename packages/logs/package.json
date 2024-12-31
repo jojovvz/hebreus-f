@@ -12,6 +12,6 @@
 	"types": "./**/.tsx",
 	"version": "0.0.0",
 	"dependencies": {
-		"consola": "^3.2.3"
+		"consola": "^3.3.3"
 	}
 }
